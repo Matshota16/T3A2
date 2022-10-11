@@ -28,3 +28,4 @@ Enunciado: Realiza una programa que calcule las horas transcurridas entre dos ho
 
 ## ETAPA 3, Diseño de la solucion.
 Diagrama de clase
+![](https://github.com/Matshota16/T3A2/blob/d1c14e9f881111682005932a6dc4ddbe4618ee73/T3A2.png)
